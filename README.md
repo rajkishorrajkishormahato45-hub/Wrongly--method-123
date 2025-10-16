@@ -1,2 +1,3 @@
-# Wrongly--method-123
-Empty repository 
+only python 
+<br>
+python code 
